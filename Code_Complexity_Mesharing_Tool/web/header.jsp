@@ -28,13 +28,8 @@
             <ul class="nav navbar-nav">
                 <li><a id="home" href="http://localhost:8083/Code_Complexity_Mesharing_Tool/index.jsp">Home</a></li>                 
                 <li><a  href="#contact">Size - Variables - Methods</a></li>
-<<<<<<< HEAD
                 <li><a  href="#contact">Inheritance</a></li>
                 <li><a  href="http://localhost:8083/Code_Complexity_Mesharing_Tool/coupling.jsp">Coupling</a></li>
-=======
-                <li><a  href="http://localhost:8080/Code_Complexity_Mesharing_Tool/inheritance.jsp">Inheritance</a></li>
-                <li><a  href="#contact">Coupling</a></li>
->>>>>>> 82a8b84ae934b95b9f0791313dac48598ac4cf8d
                 <li><a  href="http://localhost:8083/Code_Complexity_Mesharing_Tool/controlstructure.jsp">Control structures</a></li>
                 <li><a  href="#contact">All The Factors</a></li>                 
             </ul>
