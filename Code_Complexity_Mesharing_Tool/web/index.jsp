@@ -34,7 +34,7 @@
                 <hr id="uploadHr"> <span id="uploadHrText"> Or Upload Your Program file here </span> <hr id="uploadhrlRight">
 
                 <div class="custom-file" style="width: 98.3%">
-                    <input type="file" class="custom-file-input" id="customFile" name="codeFile"  accept=".pdf, .docx, .doc, .txt">
+                    <input type="file" class="custom-file-input" id="customFile" name="codeFile"  accept=".java, .docx, .doc, .txt">
                     <label  class="custom-file-label" for="customFile">Choose file</label>
                 </div>
                 <button value="Upload" id="btnSubmit"   type="submit" class="btn btn-primary  "><b>Submit And Calculate</b> </button> 

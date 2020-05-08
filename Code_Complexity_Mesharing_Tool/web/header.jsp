@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta charset="utf-8">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">        
+        <link rel="stylesheet" href="boostrap/css/bootstrap.min.css">        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
@@ -24,12 +24,12 @@
             <label id="Htext"  ><b> Code Complexity Measuring Tool </b></label>
 
         </div>
-        <div id="headbdy">
+        <div id="headbdy" >
             <ul class="nav navbar-nav">
                 <li><a id="home" href="http://localhost:8083/Code_Complexity_Mesharing_Tool/index.jsp">Home</a></li>                 
                 <li><a  href="#contact">Size - Variables - Methods</a></li>
                 <li><a  href="#contact">Inheritance</a></li>
-                <li><a  href="#contact">Coupling</a></li>
+                <li><a  href="http://localhost:8083/Code_Complexity_Mesharing_Tool/coupling.jsp">Coupling</a></li>
                 <li><a  href="http://localhost:8083/Code_Complexity_Mesharing_Tool/controlstructure.jsp">Control structures</a></li>
                 <li><a  href="#contact">All The Factors</a></li>                 
             </ul>

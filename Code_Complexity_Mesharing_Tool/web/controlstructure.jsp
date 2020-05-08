@@ -100,9 +100,7 @@
             }
 
 
-
-
-//            var lines = [];
+//            var lines = []; 
 //            $('#my_textarea_selector').val().split("\n").each(function ()
 //            {
 //            if (parseInt($(this) != 'NaN')

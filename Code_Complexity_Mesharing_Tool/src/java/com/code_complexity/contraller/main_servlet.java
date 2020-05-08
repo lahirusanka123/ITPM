@@ -117,7 +117,7 @@ public class main_servlet extends HttpServlet {
 //                                out.print("this one>>>>>" + everything);
                                  
                                 httpsession.setAttribute("Readfile", Ctrlstruct_calculatedvalue);
-                                System.out.println("**************session*********" + httpsession.getAttribute("Readfile"));
+//                                System.out.println("**************session*********" + httpsession.getAttribute("Readfile"));
                                  
                             }
 
